@@ -2,10 +2,8 @@
 <h3 align="center">A passionate software engineering student</h3>
 
 - 🔭 I’m currently working on [stack_surveys](https://github.com/oscark22/stack_surveys)
-
 - 🌱 I’m currently learning **React & AWS**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
