@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate software engineering student</h3>
+<h3 align="center">A passionate software engineering student 💻</h3>
 
 - 🔭 I’m currently working on [stack_surveys](https://github.com/oscark22/stack_surveys)
 - 🌱 I’m currently learning **React & AWS**
