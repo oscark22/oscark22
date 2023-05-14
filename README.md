@@ -1,5 +1,3 @@
-![My Image](banner.png)
-
 ### Thanks for visiting my profile!
 I'm an upcoming software engineer from Mexico. I love programming, reading and watching movies 🎥. I like working with cloud computing and enjoy building websites. I'm currently learning Bash and I like sushi 🍣.
 
