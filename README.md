@@ -5,7 +5,7 @@ I'm an upcoming software engineer from Mexico. I love programming, reading and w
 [![trophy](https://github-profile-trophy.vercel.app/?username=oscark22&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ☎️ Social media
-<a href="https://www.linkedin.com/in/oscar-montoya-a59b07209"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/oscar-encinas-a59b07209"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 <a href="https://stackoverflow.com/users/19222645/anothercoder"><img src="https://img.shields.io/badge/StackOverflow-blue?logo=stackoverflow&logoColor=white&style=for-the-badge" /></a>
 
 ### 💻 My programming languages
