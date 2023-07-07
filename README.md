@@ -1,5 +1,5 @@
 ### Thanks for visiting my profile!
-I'm an upcoming software engineer from Mexico. I love programming, reading and watching movies 🎥. I like working with cloud computing and enjoy building websites. I'm currently creating projects with Spring Boot 🍀. I like sushi 🍣.
+I'm an upcoming software engineer from Mexico. I love programming, reading and watching movies 🎥. I like working with cloud computing and enjoy building websites. I'm currently working with AWS. I like sushi 🍣.
 
 ### 🏆 My trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=oscark22&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
