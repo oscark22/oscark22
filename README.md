@@ -1,6 +1,8 @@
 ### Thanks for visiting my profile!
 I'm an upcoming software engineer from Mexico. Right now I may be leetcoding. I love programming, reading and watching movies 🎥. I like working with cloud computing and enjoy building websites. I like sushi 🍣.
 
+**Note**: be sure to check out my <a href="https://www.oscark22.dev">website</a> :)
+
 ### 🏆 My trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=oscark22&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
